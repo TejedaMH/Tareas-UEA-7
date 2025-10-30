@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON dice</title>
+</head>
+<body>
+    <p id="mensaje">El archivo JSON dice que: <span id="hola"></span></p>
+
+    <script>
+        fetch('tarea1.json')
+        .then(response => response.json ())
+        .then(json => {
+            document.getElementById ("hola").innerHTML=json.acciones[1] + json.partes [0] + json.lados [0];
+            console.log (json);
+        })
+    </script>
+</body>
+</html>
