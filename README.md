@@ -1,1 +1,17 @@
 # Tareas-UEA-7
+María Fernanda Tejeda Hernández  
+UEA: Producción y comunicación en la cultura colaborativa 
+Licenciatura: Arte y Comunicación Digitales
+
+## Objetivo del repositorio
+El objetivo de este repositorio es organizar y documentar el desarrollo de las actividades, ejercicios y proyectos realizados a lo largo de la UEA. Este espacio funciona como un archivo digital que permite dar seguimiento al progreso técnico de las tareas asignadas, facilitando tanto la revisión como la retroalimentación. Además, este repositorio busca fomentar buenas prácticas en el uso de herramientas de control de versiones, lo cual es fundamental para el trabajo colaborativo y la gestión de proyectos dentro del campo de la comunicación digital.
+Al documentar cada avance, este repositorio sirve también como una herramienta de reflexión personal y profesional. Asimismo, busca establecer una base sólida para futuros proyectos, ya que permite recuperar código, conceptos, metodologías y materiales que pueden ser reutilizados. En resumen, este repositorio se concibe como un espacio donde la práctica académica y el uso de tecnologías fortalezcan el aprendizaje y la producción creativa.
+
+
+## Organización del repositorio
+La organización del repositorio responde a la necesidad de mantener un orden coherente y funcional para facilitar la navegación y comprensión de los contenidos. Cada carpeta contiene actividades específicas, clasificadas por fechas o temas para permitir una rápida ubicación de los archivos. Dentro de cada carpeta, los archivos están nombrados de manera descriptiva, lo que permite identificar fácilmente su propósito o contenido sin necesidad de abrirlos. Además, se incluyen subcarpetas cuando un proyecto requiere múltiples elementos, como documentos, imágenes, fragmentos de código o versiones previas, manteniendo una estructura jerárquica clara.
+Esta organización busca que cualquier persona, ya sea docente, compañero o evaluador, pueda comprender los procesos realizados sin dificultad. Asimismo, permite mantener un flujo de trabajo ordenado y eficiente, evitando la acumulación desordenada de archivos. Finalmente, esta estructura favorece el crecimiento progresivo del repositorio, ya que puede ampliarse conforme se desarrollen nuevas tareas o proyectos, sin perder legibilidad ni funcionalidad.
+
+## Experiencia personal de crear y gestionar el repositorio
+Crear y gestionar este repositorio ha sido una experiencia formativa que implicó pensar con cuidado no solo la organización de archivos, sino también el cómo comunicar adecuadamente el objetivo de cada elemento. A lo largo de este proceso, aprendí a utilizar Git y GitHub con mayor facilidad, comprendiendo mejor la lógica de control de versiones y la ventaja de contar con un historial de cambios que permite rastrear errores, mejorar el trabajo y mantener un registro documentado del progreso.
+Gestionar el repositorio también me hizo más consciente de la importancia de la documentación y la escritura técnica. Me obligó a revisar, ordenar, renombrar y limpiar archivos para mantener un espacio funcional y accesible. Además, esta experiencia fortaleció mis habilidades de autonomía, ya que aprendí a resolver problemas técnicos, comprender mensajes de error y tomar decisiones sobre estructura y contenido. En conjunto, crear este repositorio se convirtió no solo en una tarea académica, sino en una herramienta útil para mi futuro profesional, dándome una base sólida para proyectos más complejos y colaborativos.
